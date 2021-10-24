@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BFAA2-Github</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="demo_name">Demo</string>
+    <string name="detail">Detail</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="location_name">Location Name</string>
+    <string name="location">Location</string>
+    <string name="company_name">Company Name</string>
+    <string name="company">Company</string>
+    <string name="github_name">Name</string>
+    <string name="tab_1">Following</string>
+    <string name="tab_2">Followers</string>
+    <string name="github_username">Username</string>
+</resources>
